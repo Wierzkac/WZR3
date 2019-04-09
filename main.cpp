@@ -22,7 +22,7 @@ using namespace std;
 int druzyny[9][3] = { 0 };
 int iid_chetnego;
 
-bool if_different_skills = true;          // czy zró¿nicowanie umiejêtnoœci (dla ka¿dego pojazdu losowane s¹ umiejêtnoœci
+bool if_different_skills = true;          // czy zróżnicowanie umiejętności (dla każdego pojazdu losowane są umiejętności
 // zbierania gotówki i paliwa)
 bool if_autonomous_control = false;       // sterowanie autonomiczne pojazdem
 
@@ -42,12 +42,12 @@ float fDt;                          // sredni czas pomiedzy dwoma kolejnymi cykl
 long czas_cyklu_WS, licznik_sym;     // zmienne pomocnicze potrzebne do obliczania fDt
 float sr_czestosc;                  // srednia czestosc wysylania ramek w [ramkach/s] 
 long czas_start = clock();          // czas od poczatku dzialania aplikacji  
-long czas_istnienia_grupy = clock();    // czas od pocz¹tku istnienia grupy roboczej (czas od uruchom. pierwszej aplikacji)      
+long czas_istnienia_grupy = clock();    // czas od początku istnienia grupy roboczej (czas od uruchom. pierwszej aplikacji)      
 
 multicast_net *multi_reciv;         // wsk do obiektu zajmujacego sie odbiorem komunikatow
 multicast_net *multi_send;          //   -||-  wysylaniem komunikatow
 
-HANDLE threadReciv;                 // uchwyt w¹tku odbioru komunikatów
+HANDLE threadReciv;                 // uchwyt wątku odbioru komunikatów
 extern HWND okno;
 CRITICAL_SECTION m_cs;               // do synchronizacji wątków
 
@@ -55,16 +55,16 @@ bool SHIFTwcisniety = 0;
 bool CTRLwcisniety = 0;
 bool ALTwcisniety = 0;
 bool Lwcisniety = 0;
-//bool rejestracja_uczestnikow = true;   // rejestracja trwa do momentu wziêcia przedmiotu przez któregokolwiek uczestnika,
-// w przeciwnym razie trzeba by przesy³aæ ca³y stan œrodowiska nowicjuszowi
+//bool rejestracja_uczestnikow = true;   // rejestracja trwa do momentu wzięcia przedmiotu przez któregokolwiek uczestnika,
+// w przeciwnym razie trzeba by przesyłać cały stan środowiska nowicjuszowi
 
 // Parametry widoku:
 extern ParametryWidoku par_wid;
 
-bool sterowanie_myszkowe = 0;                   // sterowanie pojazdem za pomoc¹ myszki
-int kursor_x, kursor_y;                         // polo¿enie kursora myszki w chwili w³¹czenia sterowania
-//char napis1[300], napis2[300];                  // napisy wyœwietlane w trybie graficznym 
-long nr_miejsca_przedm = terrain.liczba_przedmiotow;  // numer miejsca, w którym mo¿na umieœciæ przedmiot
+bool sterowanie_myszkowe = 0;                   // sterowanie pojazdem za pomocą myszki
+int kursor_x, kursor_y;                         // polożenie kursora myszki w chwili włączenia sterowania
+//char napis1[300], napis2[300];                  // napisy wyświetlane w trybie graficznym 
+long nr_miejsca_przedm = terrain.liczba_przedmiotow;  // numer miejsca, w którym można umieścić przedmiot
 
 int opoznienia = 0;
 
@@ -84,45 +84,45 @@ struct Ramka
 	StanObiektu stan;
 	
 	long czas_wyslania;
-	int iID_adresata;      // nr ID adresata wiadomoœci (pozostali uczestnicy powinni wiadomoœæ zignorowaæ)
+	int iID_adresata;      // nr ID adresata wiadomości (pozostali uczestnicy powinni wiadomość zignorować)
 
-	int nr_przedmiotu;     // nr przedmiotu, który zosta³ wziêty lub odzyskany
-	Wektor3 wdV_kolid;     // wektor prêdkoœci wyjœciowej po kolizji (uczestnik o wskazanym adresie powinien 
-	// przyj¹æ t¹ prêdkoœæ)  
+	int nr_przedmiotu;     // nr przedmiotu, który został wzięty lub odzyskany
+	Wektor3 wdV_kolid;     // wektor prędkości wyjściowej po kolizji (uczestnik o wskazanym adresie powinien 
+	// przyjąć tą prędkość)  
 
 	int typ_przekazu;        // gotówka, paliwo
-	float wartosc_przekazu;  // iloœæ gotówki lub paliwa 
+	float wartosc_przekazu;  // ilość gotówki lub paliwa 
 	int nr_druzyny;
 
-	long czas_istnienia;        // czas jaki uplyn¹³ od uruchomienia programu
+	long czas_istnienia;        // czas jaki uplynął od uruchomienia programu
 };
 
 
 //******************************************
-// Funkcja obs³ugi w¹tku odbioru komunikatów 
+// Funkcja obsługi wątku odbioru komunikatów 
 DWORD WINAPI WatekOdbioru(void *ptr)
 {
-	multicast_net *pmt_net = (multicast_net*)ptr;  // wskaŸnik do obiektu klasy multicast_net
+	multicast_net *pmt_net = (multicast_net*)ptr;  // wskaźnik do obiektu klasy multicast_net
 	int rozmiar;                                 // liczba bajtów ramki otrzymanej z sieci
 	Ramka ramka;
 	StanObiektu stan;
 
 	while (1)
 	{
-		rozmiar = pmt_net->reciv((char*)&ramka, sizeof(Ramka));   // oczekiwanie na nadejœcie ramki 
+		rozmiar = pmt_net->reciv((char*)&ramka, sizeof(Ramka));   // oczekiwanie na nadejście ramki 
 		// Lock the Critical section
 		EnterCriticalSection(&m_cs);               // wejście na ścieżkę krytyczną - by inne wątki (np. główny) nie współdzielił 
 
 		switch (ramka.typ_ramki)
 		{
-		case STAN_OBIEKTU:           // podstawowy typ ramki informuj¹cej o stanie obiektu              
+		case STAN_OBIEKTU:           // podstawowy typ ramki informującej o stanie obiektu              
 		{
 			stan = ramka.stan;
 			//fprintf(f,"odebrano stan iID = %d, ID dla mojego obiektu = %d\n",stan.iID,my_vehicle->iID);
-			if ((ramka.iID != my_vehicle->iID))          // jeœli to nie mój w³asny obiekt
+			if ((ramka.iID != my_vehicle->iID))          // jeśli to nie mój własny obiekt
 			{
 
-				if ((network_vehicles.size() == 0) || (network_vehicles[ramka.iID] == NULL))         // nie ma jeszcze takiego obiektu w tablicy -> trzeba go stworzyæ
+				if ((network_vehicles.size() == 0) || (network_vehicles[ramka.iID] == NULL))         // nie ma jeszcze takiego obiektu w tablicy -> trzeba go stworzyć
 				{
 					MovableObject *ob = new MovableObject(&terrain);
 					ob->iID = ramka.iID;
@@ -130,7 +130,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 					if (ramka.czas_istnienia > czas_istnienia_grupy) czas_istnienia_grupy = ramka.czas_istnienia;
 					ob->ZmienStan(stan);   // aktualizacja stanu obiektu obcego 
 					terrain.WstawObiektWsektory(ob);
-					// wys³anie nowemu uczestnikowi informacji o wszystkich wziêtych przedmiotach:
+					// wysłanie nowemu uczestnikowi informacji o wszystkich wziętych przedmiotach:
 					for (long i = 0; i < terrain.liczba_przedmiotow; i++)
 						if ((terrain.p[i].do_wziecia == 0) && (terrain.p[i].czy_ja_wzialem))
 						{
@@ -153,7 +153,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 			}
 			break;
 		}
-		case WZIECIE_PRZEDMIOTU:            // ramka informuj¹ca, ¿e ktoœ wzi¹³ przedmiot o podanym numerze
+		case WZIECIE_PRZEDMIOTU:            // ramka informująca, że ktoś wziął przedmiot o podanym numerze
 		{
 			stan = ramka.stan;
 			if ((ramka.nr_przedmiotu < terrain.liczba_przedmiotow) && (ramka.iID != my_vehicle->iID))
@@ -163,31 +163,31 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 			}
 			break;
 		}
-		case ODNOWIENIE_SIE_PRZEDMIOTU:       // ramka informujaca, ¿e przedmiot wczeœniej wziêty pojawi³ siê znowu w tym samym miejscu
+		case ODNOWIENIE_SIE_PRZEDMIOTU:       // ramka informujaca, że przedmiot wcześniej wzięty pojawił się znowu w tym samym miejscu
 		{
 			if (ramka.nr_przedmiotu < terrain.liczba_przedmiotow)
 				terrain.p[ramka.nr_przedmiotu].do_wziecia = 1;
 			break;
 		}
-		case KOLIZJA:                       // ramka informuj¹ca o tym, ¿e obiekt uleg³ kolizji
+		case KOLIZJA:                       // ramka informująca o tym, że obiekt uległ kolizji
 		{
-			if (ramka.iID_adresata == my_vehicle->iID)  // ID pojazdu, który uczestniczy³ w kolizji zgadza siê z moim ID 
+			if (ramka.iID_adresata == my_vehicle->iID)  // ID pojazdu, który uczestniczył w kolizji zgadza się z moim ID 
 			{
-				my_vehicle->wdV_kolid = ramka.wdV_kolid; // przepisuje poprawkê w³asnej prêdkoœci
-				my_vehicle->iID_kolid = my_vehicle->iID; // ustawiam nr. kolidujacego jako w³asny na znak, ¿e powinienem poprawiæ prêdkoœæ
+				my_vehicle->wdV_kolid = ramka.wdV_kolid; // przepisuje poprawkę własnej prędkości
+				my_vehicle->iID_kolid = my_vehicle->iID; // ustawiam nr. kolidujacego jako własny na znak, że powinienem poprawić prędkość
 			}
 			break;
 		}
-		case PRZEKAZ:                       // ramka informuj¹ca o przelewie pieniê¿nym lub przekazaniu towaru    
+		case PRZEKAZ:                       // ramka informująca o przelewie pieniężnym lub przekazaniu towaru    
 		{
-			if (ramka.iID_adresata == my_vehicle->iID)  // ID pojazdu, ktory otrzymal przelew zgadza siê z moim ID 
+			if (ramka.iID_adresata == my_vehicle->iID)  // ID pojazdu, ktory otrzymal przelew zgadza się z moim ID 
 			{
 				if (ramka.typ_przekazu == PIENIADZE)
 					my_vehicle->pieniadze += ramka.wartosc_przekazu;
 				else if (ramka.typ_przekazu == PALIWO)
 					my_vehicle->ilosc_paliwa += ramka.wartosc_przekazu;
 
-				// nale¿a³oby jeszcze przelew potwierdziæ (w UDP ramki mog¹ byæ gubione!)
+				// należałoby jeszcze przelew potwierdzić (w UDP ramki mogą być gubione!)
 				
 			}
 			break;
@@ -199,13 +199,13 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 			if (ramka.iID_adresata == -1) {
 				if (druzyny[ramka.nr_druzyny - 1][0] == 0)// jeśli nie ma drużyny
 				{
-					sprintf(par_wid.napis2, "Gracz o id: %d chce stworzyć drużynę o numerze: %d", ramka.iID, ramka.nr_druzyny);
+					sprintf(par_wid.napis2, "Gracz_o_id:_%d_chce_stworzyc_druzyne_o_numerze:_%d", ramka.iID, ramka.nr_druzyny);
 					druzyny[ramka.nr_druzyny - 1][0] = ramka.iID;
 				}
 			}
 			else if (ramka.iID_adresata == my_vehicle->iID)// jeśli wysyła do założyciela
 			{
-				sprintf(par_wid.napis2, "Gracz o id: %d chce dolaczyc do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+				sprintf(par_wid.napis2, "Gracz_o_id:_%d_chce_dolaczyc_do_druzyny_numer_%d", ramka.iID, ramka.nr_druzyny);
 				iid_chetnego = ramka.iID;
 
 			}
@@ -214,7 +214,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 		case ZGODA:
 		{
 
-			sprintf(par_wid.napis2, "Gracz o id: %d zgodzil sie na doloczenie Ciebie do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+			sprintf(par_wid.napis2, "Gracz_o_id:_%d_zgodzil_sie_na_doloczenie_Ciebie_do_druzyny_numer_%d", ramka.iID, ramka.nr_druzyny);
 
 			if (ramka.iID_adresata = my_vehicle->iID)
 			{
@@ -222,6 +222,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 				if (druzyny[ramka.nr_druzyny - 1][i] == 0)
 				{
 					druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+					break;
 				}
 			}
 		
@@ -230,7 +231,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 
 		case ODMOWA:
 		{
-			sprintf(par_wid.napis2, "Gracz o id: %d nie zgodzil sie na doloczenie Ciebie do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+			sprintf(par_wid.napis2, "Gracz_o_id:_%d_nie_zgodzil_sie_na_doloczenie_Ciebie_do_druzyny_numer_%d", ramka.iID, ramka.nr_druzyny);
 
 			break;
 		}
@@ -247,8 +248,8 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 }
 
 // *****************************************************************
-// ****    Wszystko co trzeba zrobiæ podczas uruchamiania aplikacji
-// ****    poza grafik¹   
+// ****    Wszystko co trzeba zrobić podczas uruchamiania aplikacji
+// ****    poza grafiką   
 void PoczatekInterakcji()
 {
 	DWORD dwThreadId;
@@ -262,7 +263,7 @@ void PoczatekInterakcji()
 
 	// obiekty sieciowe typu multicast (z podaniem adresu WZR oraz numeru portu)
 	multi_reciv = new multicast_net("224.10.12.190", 10001);      // obiekt do odbioru ramek sieciowych
-	multi_send = new multicast_net("224.10.12.190", 10001);       // obiekt do wysy³ania ramek
+	multi_send = new multicast_net("224.10.12.190", 10001);       // obiekt do wysyłania ramek
 
 	// uruchomienie watku obslugujacego odbior komunikatow
 	threadReciv = CreateThread(
@@ -277,15 +278,15 @@ void PoczatekInterakcji()
 
 
 // *****************************************************************
-// ****    Wszystko co trzeba zrobiæ w ka¿dym cyklu dzia³ania 
-// ****    aplikacji poza grafik¹ 
+// ****    Wszystko co trzeba zrobić w każdym cyklu działania 
+// ****    aplikacji poza grafiką 
 void Cykl_WS()
 {
 	licznik_sym++;
 
-	// obliczenie œredniego czasu pomiêdzy dwoma kolejnnymi symulacjami po to, by zachowaæ  fizycznych 
-	if (licznik_sym % 50 == 0)          // jeœli licznik cykli przekroczy³ pewn¹ wartoœæ, to
-	{                                   // nale¿y na nowo obliczyæ œredni czas cyklu fDt
+	// obliczenie średniego czasu pomiędzy dwoma kolejnnymi symulacjami po to, by zachować  fizycznych 
+	if (licznik_sym % 50 == 0)          // jeśli licznik cykli przekroczył pewną wartość, to
+	{                                   // należy na nowo obliczyć średni czas cyklu fDt
 		char text[200];
 		long czas_pop = czas_cyklu_WS;
 		czas_cyklu_WS = clock();
@@ -298,12 +299,12 @@ void Cykl_WS()
 
 
 	terrain.UsunObiektZsektorow(my_vehicle);
-	my_vehicle->Symulacja(fDt);                    // symulacja w³asnego obiektu
+	my_vehicle->Symulacja(fDt);                    // symulacja własnego obiektu
 	terrain.WstawObiektWsektory(my_vehicle);
 
 
-	if ((my_vehicle->iID_kolid > -1) &&             // wykryto kolizjê - wysy³am specjaln¹ ramkê, by poinformowaæ o tym drugiego uczestnika
-		(my_vehicle->iID_kolid != my_vehicle->iID)) // oczywiœcie wtedy, gdy nie chodzi o mój pojazd
+	if ((my_vehicle->iID_kolid > -1) &&             // wykryto kolizję - wysyłam specjalną ramkę, by poinformować o tym drugiego uczestnika
+		(my_vehicle->iID_kolid != my_vehicle->iID)) // oczywiście wtedy, gdy nie chodzi o mój pojazd
 	{
 		Ramka ramka;
 		ramka.typ_ramki = KOLIZJA;
@@ -323,14 +324,14 @@ void Cykl_WS()
 
 	Ramka ramka;
 	ramka.typ_ramki = STAN_OBIEKTU;
-	ramka.stan = my_vehicle->Stan();         // stan w³asnego obiektu 
+	ramka.stan = my_vehicle->Stan();         // stan własnego obiektu 
 	ramka.iID = my_vehicle->iID;
 	ramka.czas_istnienia = clock() - czas_start;
 	int iRozmiar = multi_send->send((char*)&ramka, sizeof(Ramka));
 
 
 
-	// wziêcie przedmiotu -> wysy³anie ramki 
+	// wzięcie przedmiotu -> wysyłanie ramki 
 	if (my_vehicle->nr_wzietego_przedm > -1)
 	{
 		Ramka ramka;
@@ -347,9 +348,9 @@ void Cykl_WS()
 		//rejestracja_uczestnikow = 0;     // koniec rejestracji nowych uczestników
 	}
 
-	// odnawianie siê przedmiotu -> wysy³anie ramki
+	// odnawianie się przedmiotu -> wysyłanie ramki
 	if (my_vehicle->nr_odnowionego_przedm > -1)
-	{                             // jeœli min¹³ pewnien okres czasu przedmiot mo¿e zostaæ przywrócony
+	{                             // jeśli minął pewnien okres czasu przedmiot może zostać przywrócony
 		Ramka ramka;
 		ramka.typ_ramki = ODNOWIENIE_SIE_PRZEDMIOTU;
 		ramka.nr_przedmiotu = my_vehicle->nr_odnowionego_przedm;
@@ -364,15 +365,15 @@ void Cykl_WS()
 }
 
 // *****************************************************************
-// ****    Wszystko co trzeba zrobiæ podczas zamykania aplikacji
-// ****    poza grafik¹ 
+// ****    Wszystko co trzeba zrobić podczas zamykania aplikacji
+// ****    poza grafiką 
 void ZakonczenieInterakcji()
 {
 	fprintf(f, "Koniec interakcji\n");
 	fclose(f);
 }
 
-// Funkcja wysylajaca ramke z przekazem, zwraca zrealizowan¹ wartoœæ przekazu
+// Funkcja wysylajaca ramke z przekazem, zwraca zrealizowaną wartość przekazu
 float WyslaniePrzekazu(int ID_adresata, int typ_przekazu, float wartosc_przekazu)
 {
 	Ramka ramka;
@@ -382,7 +383,7 @@ float WyslaniePrzekazu(int ID_adresata, int typ_przekazu, float wartosc_przekazu
 	ramka.wartosc_przekazu = wartosc_przekazu;
 	ramka.iID = my_vehicle->iID;
 
-	// tutaj nale¿a³oby uzyskaæ potwierdzenie przekazu zanim sumy zostan¹ odjête
+	// tutaj należałoby uzyskać potwierdzenie przekazu zanim sumy zostaną odjęte
 	if (typ_przekazu == PIENIADZE)
 	{
 		if (my_vehicle->pieniadze < wartosc_przekazu)
@@ -395,7 +396,7 @@ float WyslaniePrzekazu(int ID_adresata, int typ_przekazu, float wartosc_przekazu
 		if (my_vehicle->ilosc_paliwa < wartosc_przekazu)
 			ramka.wartosc_przekazu = my_vehicle->ilosc_paliwa;
 		my_vehicle->ilosc_paliwa -= ramka.wartosc_przekazu;
-		sprintf(par_wid.napis2, "Przekazanie_paliwa_w_iloœci_ %f _na_rzecz_ID_ %d", wartosc_przekazu, ID_adresata);
+		sprintf(par_wid.napis2, "Przekazanie_paliwa_w_ilości_ %f _na_rzecz_ID_ %d", wartosc_przekazu, ID_adresata);
 	}
 
 	if (ramka.wartosc_przekazu > 0)
@@ -486,7 +487,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
 }
 
 // ************************************************************************
-// ****    Obs³uga klawiszy s³u¿¹cych do sterowania obiektami lub
+// ****    Obsługa klawiszy służących do sterowania obiektami lub
 // ****    widokami 
 void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 {
@@ -505,7 +506,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 		int x = LOWORD(lParam);
 		int y = HIWORD(lParam);
 		if (sterowanie_myszkowe)
-			my_vehicle->F = my_vehicle->F_max;        // si³a pchaj¹ca do przodu
+			my_vehicle->F = my_vehicle->F_max;        // siła pchająca do przodu
 
 		break;
 	}
@@ -517,7 +518,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 		int RSHIFT = GetKeyState(VK_RSHIFT);
 
 		if (sterowanie_myszkowe)
-			my_vehicle->F = -my_vehicle->F_max / 2;        // si³a pchaj¹ca do tylu
+			my_vehicle->F = -my_vehicle->F_max / 2;        // siła pchająca do tylu
 		else if (wParam & MK_SHIFT)                    // odznaczanie wszystkich obiektów   
 		{
 			for (long i = 0; i < terrain.liczba_zazn_przedm; i++)
@@ -599,7 +600,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 					terrain.ZaznaczOdznaczPrzedmiotLubGrupe(index_min);
 				}
 				//char lan[256];
-				//sprintf(lan, "klikniêto w przedmiot %d pol = (%f, %f, %f)\n",ind_min,terrain.p[ind_min].wPol.x,terrain.p[ind_min].wPol.y,terrain.p[ind_min].wPol.z);
+				//sprintf(lan, "kliknięto w przedmiot %d pol = (%f, %f, %f)\n",ind_min,terrain.p[ind_min].wPol.x,terrain.p[ind_min].wPol.y,terrain.p[ind_min].wPol.z);
 				//SetWindowText(okno,lan);
 			}
 			Wektor3 punkt_klik = WspolrzedneKursora3D(x, r.bottom - r.top - y);
@@ -608,7 +609,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 		break;
 	}
-	case WM_MBUTTONDOWN: //reakcja na œrodkowy przycisk myszki : uaktywnienie/dezaktywacja sterwania myszkowego
+	case WM_MBUTTONDOWN: //reakcja na środkowy przycisk myszki : uaktywnienie/dezaktywacja sterwania myszkowego
 	{
 		sterowanie_myszkowe = 1 - sterowanie_myszkowe;
 		kursor_x = LOWORD(lParam);
@@ -618,13 +619,13 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 	case WM_LBUTTONUP: //reakcja na puszczenie lewego przycisku myszki
 	{
 		if (sterowanie_myszkowe)
-			my_vehicle->F = 0.0;        // si³a pchaj¹ca do przodu
+			my_vehicle->F = 0.0;        // siła pchająca do przodu
 		break;
 	}
 	case WM_RBUTTONUP: //reakcja na puszczenie lewy przycisk myszki
 	{
 		if (sterowanie_myszkowe)
-			my_vehicle->F = 0.0;        // si³a pchaj¹ca do przodu
+			my_vehicle->F = 0.0;        // siła pchająca do przodu
 		break;
 	}
 	case WM_MOUSEMOVE:
@@ -640,10 +641,10 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 		}
 		break;
 	}
-	case WM_MOUSEWHEEL:     // ruch kó³kiem myszy -> przybli¿anie, oddalanie widoku
+	case WM_MOUSEWHEEL:     // ruch kółkiem myszy -> przybliżanie, oddalanie widoku
 	{
-		int zDelta = GET_WHEEL_DELTA_WPARAM(wParam);  // dodatni do przodu, ujemny do ty³u
-		//fprintf(f,"zDelta = %d\n",zDelta);          // zwykle +-120, jak siê bardzo szybko zakrêci to czasmi wyjdzie +-240
+		int zDelta = GET_WHEEL_DELTA_WPARAM(wParam);  // dodatni do przodu, ujemny do tyłu
+		//fprintf(f,"zDelta = %d\n",zDelta);          // zwykle +-120, jak się bardzo szybko zakręci to czasmi wyjdzie +-240
 		if (zDelta > 0){
 			if (par_wid.oddalenie > 0.5) par_wid.oddalenie /= 1.2;
 			else par_wid.oddalenie = 0;
@@ -678,15 +679,15 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 		case VK_SPACE:
 		{
-			my_vehicle->ham = 1.0;       // stopieñ hamowania (reszta zale¿y od si³y docisku i wsp. tarcia)
-			break;                       // 1.0 to maksymalny stopieñ (np. zablokowanie kó³)
+			my_vehicle->ham = 1.0;       // stopieñ hamowania (reszta zależy od siły docisku i wsp. tarcia)
+			break;                       // 1.0 to maksymalny stopieñ (np. zablokowanie kół)
 		}
 		case VK_UP:
 		{
 			if (CTRLwcisniety && par_wid.widok_z_gory)
 				par_wid.przes_w_dol += par_wid.oddalenie / 2;       // przesunięcie widoku z kamery w górę
 			else
-				my_vehicle->F = my_vehicle->F_max;        // si³a pchaj¹ca do przodu
+				my_vehicle->F = my_vehicle->F_max;        // siła pchająca do przodu
 			break;
 		}
 		case VK_DOWN:
@@ -730,7 +731,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 			break;
 		}
-		case 'W':   // przybli¿enie widoku
+		case 'W':   // przybliżenie widoku
 		{
 			//pocz_pol_kamery = pocz_pol_kamery - pocz_kierunek_kamery*0.3;
 			if (par_wid.oddalenie > 0.5)par_wid.oddalenie /= 1.2;
@@ -753,22 +754,22 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 				SetWindowText(okno, "Wyłączono widok z góry.");
 			break;
 		}
-		case 'E':   // obrót kamery ku górze (wzglêdem lokalnej osi z)
+		case 'E':   // obrót kamery ku górze (względem lokalnej osi z)
 		{
 			par_wid.kat_kam_z += PI * 5 / 180;
 			break;
 		}
-		case 'D':   // obrót kamery ku do³owi (wzglêdem lokalnej osi z)
+		case 'D':   // obrót kamery ku dołowi (względem lokalnej osi z)
 		{
 			par_wid.kat_kam_z -= PI * 5 / 180;
 			break;
 		}
-		case 'A':   // w³¹czanie, wy³¹czanie trybu œledzenia obiektu
+		case 'A':   // włączanie, wyłączanie trybu śledzenia obiektu
 		{
 			par_wid.sledzenie = 1 - par_wid.sledzenie;
 			break;
 		}
-		case 'Z':   // zoom - zmniejszenie k¹ta widzenia
+		case 'Z':   // zoom - zmniejszenie kąta widzenia
 		{
 			par_wid.zoom /= 1.1;
 			RECT rc;
@@ -776,7 +777,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			ZmianaRozmiaruOkna(rc.right - rc.left, rc.bottom - rc.top);
 			break;
 		}
-		case 'X':   // zoom - zwiêkszenie k¹ta widzenia
+		case 'X':   // zoom - zwiększenie kąta widzenia
 		{
 			par_wid.zoom *= 1.1;
 			RECT rc;
@@ -822,6 +823,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			Ramka ramka;
 			ramka.typ_ramki = ZGODA;
 			ramka.iID_adresata = iid_chetnego;
+			ramka.iID = my_vehicle->iID;
 
 			for (int i = 0; i < 9; i++)
 				if (druzyny[i][0] == my_vehicle->iID) {
@@ -829,7 +831,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 					for (int j = 1; j <= 2; j++)
 						if (druzyny[i][j] == 0)
 						{
-							druzyny[i][j] = my_vehicle->iID;
+							druzyny[i][j] = iid_chetnego;
 						}
 				}
 
@@ -850,6 +852,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			Ramka ramka;
 			ramka.typ_ramki = ODMOWA;
 			ramka.iID_adresata = iid_chetnego;
+			ramka.iID = my_vehicle->iID;
 
 			for (int i = 0; i < 9; i++)
 				if (druzyny[i][0] == my_vehicle->iID)
