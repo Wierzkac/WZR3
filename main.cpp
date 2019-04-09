@@ -19,6 +19,8 @@ using namespace std;
 #include "graphics.h"
 #include "net.h"
 
+int druzyny[9][3] = { 0 };
+int iid_chetnego;
 
 bool if_different_skills = true;          // czy zró¿nicowanie umiejêtnoœci (dla ka¿dego pojazdu losowane s¹ umiejêtnoœci
 // zbierania gotówki i paliwa)
@@ -70,7 +72,7 @@ int opoznienia = 0;
 extern float WyslaniePrzekazu(int ID_adresata, int typ_przekazu, float wartosc_przekazu);
 
 enum typy_ramek {
-	STAN_OBIEKTU, WZIECIE_PRZEDMIOTU, ODNOWIENIE_SIE_PRZEDMIOTU, KOLIZJA, PRZEKAZ
+	STAN_OBIEKTU, WZIECIE_PRZEDMIOTU, ODNOWIENIE_SIE_PRZEDMIOTU, KOLIZJA, PRZEKAZ, WSPOLPRACA, ZGODA, ODMOWA
 };
 
 enum typy_przekazu { PIENIADZE, PALIWO };
@@ -184,11 +186,56 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 					my_vehicle->pieniadze += ramka.wartosc_przekazu;
 				else if (ramka.typ_przekazu == PALIWO)
 					my_vehicle->ilosc_paliwa += ramka.wartosc_przekazu;
-				sprintf(par_wid.napis2, "");
+
 				// nale¿a³oby jeszcze przelew potwierdziæ (w UDP ramki mog¹ byæ gubione!)
+				
 			}
 			break;
 		}
+
+		case WSPOLPRACA:
+		{
+
+			if (druzyny[ramka.nr_druzyny - 1][0] == 0 && ramka.iID_adresata == -1)// jeśli nie ma drużyny
+			{
+				sprintf(par_wid.napis2, "Gracz o id: %d chce stworzyć drużynę o numerze: %d", ramka.iID, ramka.nr_druzyny);
+				druzyny[ramka.nr_druzyny - 1][0] = ramka.iID;
+			}
+			else if (ramka.iID_adresata == my_vehicle->iID)// jeśli wysyła do założyciela
+			{
+				sprintf(par_wid.napis2, "Gracz o id: %d chce dolaczyc do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+				iid_chetnego = ramka.iID;
+
+			}
+			break;
+		}
+		case ZGODA:
+		{
+
+			sprintf(par_wid.napis2, "Gracz o id: %d zgodzil sie na doloczenie Ciebie do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+
+			if (ramka.iID_adresata = my_vehicle->iID)
+			{
+				for(int i = 1; i<=2 ; i++)
+				if (druzyny[ramka.nr_druzyny - 1][i] == 0)
+				{
+					druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+				}
+			}
+		
+			break;
+		}
+
+		case ODMOWA:
+		{
+			sprintf(par_wid.napis2, "Gracz o id: %d nie zgodzil sie na doloczenie Ciebie do druzyny numer %d", ramka.iID, ramka.nr_druzyny);
+
+			break;
+		}
+
+
+
+
 		
 		} // switch po typach ramek
 		//Release the Critical section
@@ -768,7 +815,83 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			Lwcisniety = true;
 			break;
 		
-		
+		case 'Y':
+		{
+			Ramka ramka;
+			ramka.typ_ramki = ZGODA;
+			ramka.iID_adresata = iid_chetnego;
+
+			for (int i = 0; i < 9; i++)
+				if (druzyny[i][0] == my_vehicle->iID) {
+					ramka.nr_druzyny = i + 1;
+					for (int j = 1; j <= 2; j++)
+						if (druzyny[i][j] == 0)
+						{
+							druzyny[i][j] = my_vehicle->iID;
+						}
+				}
+
+			multi_send->send((char*)&ramka, sizeof(Ramka));
+
+			for (int i = 1; i <= 2; i++)
+				if (druzyny[ramka.nr_druzyny - 1][i] == 0)
+				{
+					druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+				}
+
+
+			break;
+		}
+
+		case 'N':
+		{
+			Ramka ramka;
+			ramka.typ_ramki = ODMOWA;
+			ramka.iID_adresata = iid_chetnego;
+
+			for (int i = 0; i < 9; i++)
+				if (druzyny[i][0] == my_vehicle->iID)
+					ramka.nr_druzyny = i + 1;
+
+			multi_send->send((char*)&ramka, sizeof(Ramka));
+
+			break;
+		}
+
+		default:
+		{
+			if (LOWORD(wParam) >= 0x31 && LOWORD(wParam) <= 0x39) {
+
+				int liczba = LOWORD(wParam) - 0x30;
+
+				if (druzyny[liczba - 1][0] == 0) //nie ma zalozyciela druzyna pusta
+				{
+					druzyny[liczba - 1][0] = my_vehicle->iID;
+
+					Ramka ramka;
+					ramka.typ_ramki = WSPOLPRACA;
+					ramka.iID = my_vehicle->iID;
+					ramka.iID_adresata = -1;
+					ramka.nr_druzyny = liczba;
+
+					multi_send->send((char*)&ramka, sizeof(Ramka));
+
+				}
+				else 
+				{
+					Ramka ramka;
+					ramka.typ_ramki = WSPOLPRACA;
+					ramka.iID_adresata = druzyny[liczba - 1][0];
+					ramka.iID = my_vehicle->iID;
+
+					multi_send->send((char*)&ramka, sizeof(Ramka));
+
+				}
+
+
+			}
+			break;
+		}
 
 		} // switch po klawiszach
 
