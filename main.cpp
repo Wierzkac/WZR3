@@ -196,10 +196,12 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 		case WSPOLPRACA:
 		{
 
-			if (druzyny[ramka.nr_druzyny - 1][0] == 0 && ramka.iID_adresata == -1)// jeśli nie ma drużyny
-			{
-				sprintf(par_wid.napis2, "Gracz o id: %d chce stworzyć drużynę o numerze: %d", ramka.iID, ramka.nr_druzyny);
-				druzyny[ramka.nr_druzyny - 1][0] = ramka.iID;
+			if (ramka.iID_adresata == -1) {
+				if (druzyny[ramka.nr_druzyny - 1][0] == 0)// jeśli nie ma drużyny
+				{
+					sprintf(par_wid.napis2, "Gracz o id: %d chce stworzyć drużynę o numerze: %d", ramka.iID, ramka.nr_druzyny);
+					druzyny[ramka.nr_druzyny - 1][0] = ramka.iID;
+				}
 			}
 			else if (ramka.iID_adresata == my_vehicle->iID)// jeśli wysyła do założyciela
 			{
@@ -883,6 +885,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 					ramka.typ_ramki = WSPOLPRACA;
 					ramka.iID_adresata = druzyny[liczba - 1][0];
 					ramka.iID = my_vehicle->iID;
+					ramka.nr_druzyny = liczba;
 
 					multi_send->send((char*)&ramka, sizeof(Ramka));
 

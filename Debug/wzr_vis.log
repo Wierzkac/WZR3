@@ -1,0 +1,64 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+c:\users\jakub\documents\github\wzr3\objects.h(6): warning C4091: 'extern ': ignored on left of 'Terrain' when no variable is declared
+c:\users\jakub\documents\github\wzr3\main.cpp(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\jakub\documents\github\wzr3\main.cpp(186): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+c:\users\jakub\documents\github\wzr3\main.cpp(202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(217): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(233): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub\documents\github\wzr3\main.cpp(295): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(289): warning C4101: 'text': unreferenced local variable
+c:\users\jakub\documents\github\wzr3\main.cpp(315): warning C4101: 'text': unreferenced local variable
+c:\users\jakub\documents\github\wzr3\main.cpp(389): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+c:\users\jakub\documents\github\wzr3\main.cpp(390): warning C4244: '-=': conversion from 'float' to 'long', possible loss of data
+c:\users\jakub\documents\github\wzr3\main.cpp(398): warning C4566: character represented by universal-character-name '\u0153' cannot be represented in the current code page (1250)
+c:\users\jakub\documents\github\wzr3\main.cpp(391): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(398): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(639): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jakub\documents\github\wzr3\main.cpp(648): warning C4305: '/=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(652): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(706): warning C4805: '&': unsafe mix of type 'WPARAM' and type 'bool' in operation
+c:\users\jakub\documents\github\wzr3\main.cpp(706): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(708): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(720): warning C4805: '&': unsafe mix of type 'WPARAM' and type 'bool' in operation
+c:\users\jakub\documents\github\wzr3\main.cpp(720): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(722): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(736): warning C4305: '/=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(743): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(758): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(763): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(773): warning C4305: '/=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(781): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\jakub\documents\github\wzr3\main.cpp(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\jakub\documents\github\wzr3\main.cpp(1001): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\jakub\documents\github\wzr3\main.cpp(1002): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\jakub\documents\github\wzr3\main.cpp(1003): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\jakub\documents\github\wzr3\main.cpp(1007): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\jakub\documents\github\wzr3\main.cpp(1008): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\jakub\documents\github\wzr3\main.cpp(1009): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\jakub\documents\github\wzr3\main.cpp(1015): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  wzr_vis.vcxproj -> C:\Users\Jakub\Documents\GitHub\WZR3\Debug\wzr_vis.exe
