@@ -23,6 +23,7 @@ int druzyny[9][3] = { 0 };
 int iid_chetnego;
 
 short moj_Procent = 100;
+short negocjowany_procent = 0;
 
 
 
@@ -257,6 +258,23 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 				sprintf(par_wid.napis2, "Gracz_o_id:_%d_zaakceptowal_Twoj_Procent_%d\%", ramka.iID, moj_Procent);
 			}
 
+
+			break;
+		}
+
+		case NOPE:
+		{
+			if (ramka.iID_adresata == my_vehicle->iID)
+			{
+				sprintf(par_wid.napis2, "Gracz_o_id:_%d_powiedzial_NOPE", ramka.iID);
+				moj_Procent = 100;
+
+				for (int i = 0; i < 9; i++)
+				{
+					if (druzyny[i][0] == my_vehicle->iID || druzyny[i][1] == my_vehicle->iID)
+						druzyny[i][1] = 0;
+				}
+			}
 
 			break;
 		}
@@ -686,6 +704,35 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 		switch (LOWORD(wParam))
 		{
+		case VK_RETURN:
+		{
+			Ramka ramka;
+			ramka.iID = my_vehicle->iID;
+
+			for (int i = 0; i < 9; i++)
+			{
+				if (druzyny[i][0] == my_vehicle->iID)
+				{
+					ramka.iID_adresata == druzyny[i][1];
+					break;
+				}
+
+				else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
+				{
+					ramka.iID_adresata == druzyny[i][0];
+					break;
+
+				}
+			}
+
+			ramka.wartosc_przekazu = min(100, negocjowany_procent);
+			moj_Procent = ramka.wartosc_przekazu;
+			negocjowany_procent = 0;
+
+			multi_send->send((char*)&ramka, sizeof(Ramka));
+			
+		}
+
 		case VK_SHIFT:
 		{
 			SHIFTwcisniety = 1;
@@ -906,16 +953,50 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 		case 'N':
 		{
-			Ramka ramka;
-			ramka.typ_ramki = ODMOWA;
-			ramka.iID_adresata = iid_chetnego;
-			ramka.iID = my_vehicle->iID;
 
-			for (int i = 0; i < 9; i++)
-				if (druzyny[i][0] == my_vehicle->iID)
-					ramka.nr_druzyny = i + 1;
+			if (SHIFTwcisniety) {
+				Ramka ramka;
+				ramka.typ_ramki = NOPE;
 
-			multi_send->send((char*)&ramka, sizeof(Ramka));
+				for (int i = 0; i < 9; i++)
+				{
+					if (druzyny[i][0] == my_vehicle->iID)
+					{
+						ramka.iID_adresata == druzyny[i][1];
+						druzyny[i][1] = 0;
+
+						break;
+					}
+
+					else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
+					{
+						ramka.iID_adresata == druzyny[i][0];
+						druzyny[i][1] = 0;
+						break;
+
+					}
+				}
+
+				ramka.iID = my_vehicle->iID;
+
+				multi_send->send((char*)&ramka, sizeof(Ramka));
+
+
+
+			}
+			else {
+
+				Ramka ramka;
+				ramka.typ_ramki = ODMOWA;
+				ramka.iID_adresata = iid_chetnego;
+				ramka.iID = my_vehicle->iID;
+
+				for (int i = 0; i < 9; i++)
+					if (druzyny[i][0] == my_vehicle->iID)
+						ramka.nr_druzyny = i + 1;
+
+				multi_send->send((char*)&ramka, sizeof(Ramka));
+			}
 
 			break;
 		}
@@ -926,29 +1007,36 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 				int liczba = LOWORD(wParam) - 0x30;
 
-				if (druzyny[liczba - 1][0] == 0) //nie ma zalozyciela druzyna pusta
+				if (SHIFTwcisniety) 
 				{
-					druzyny[liczba - 1][0] = my_vehicle->iID;
-
-					Ramka ramka;
-					ramka.typ_ramki = WSPOLPRACA;
-					ramka.iID = my_vehicle->iID;
-					ramka.iID_adresata = -1;
-					ramka.nr_druzyny = liczba;
-
-					multi_send->send((char*)&ramka, sizeof(Ramka));
-
+					negocjowany_procent *= 10 + liczba;
 				}
 				else 
 				{
-					Ramka ramka;
-					ramka.typ_ramki = WSPOLPRACA;
-					ramka.iID_adresata = druzyny[liczba - 1][0];
-					ramka.iID = my_vehicle->iID;
-					ramka.nr_druzyny = liczba;
+					if (druzyny[liczba - 1][0] == 0) //nie ma zalozyciela druzyna pusta
+					{
+						druzyny[liczba - 1][0] = my_vehicle->iID;
 
-					multi_send->send((char*)&ramka, sizeof(Ramka));
+						Ramka ramka;
+						ramka.typ_ramki = WSPOLPRACA;
+						ramka.iID = my_vehicle->iID;
+						ramka.iID_adresata = -1;
+						ramka.nr_druzyny = liczba;
 
+						multi_send->send((char*)&ramka, sizeof(Ramka));
+
+					}
+					else
+					{
+						Ramka ramka;
+						ramka.typ_ramki = WSPOLPRACA;
+						ramka.iID_adresata = druzyny[liczba - 1][0];
+						ramka.iID = my_vehicle->iID;
+						ramka.nr_druzyny = liczba;
+
+						multi_send->send((char*)&ramka, sizeof(Ramka));
+
+					}
 				}
 
 
