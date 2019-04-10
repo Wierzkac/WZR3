@@ -245,7 +245,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 		{
 			if (ramka.iID_adresata == my_vehicle->iID)
 			{
-				sprintf(par_wid.napis2, "Gracz_o_id:_%d_proponuje_Ci_%d\%", ramka.iID, 100 - ramka.wartosc_przekazu);
+				sprintf(par_wid.napis2, "Gracz_o_id:_%d_proponuje_Ci_%d\%", ramka.iID, 100 - (int)ramka.wartosc_przekazu);
 				moj_Procent = 100 - ramka.wartosc_przekazu;
 			}
 			break;
@@ -385,6 +385,38 @@ void Cykl_WS()
 		int iRozmiar = multi_send->send((char*)&ramka, sizeof(Ramka));
 
 		sprintf(par_wid.napis2, "Wziecie_przedmiotu_o_wartosci_ %f", my_vehicle->wartosc_wzieta);
+
+		typy_przekazu typ_przekazu;
+		if (my_vehicle->typ_przedmiotu == PRZ_BECZKA)
+			typ_przekazu = PALIWO;
+		else if (my_vehicle->typ_przedmiotu == PRZ_MONETA)
+			typ_przekazu = PIENIADZE;
+		float wartosc = 100 - moj_Procent;
+		wartosc = wartosc / 100;
+		wartosc = wartosc*(my_vehicle->wartosc_wzieta);
+
+
+		int adresat;
+		bool czyWDruzynie = false;
+		for (int i = 0; i < 9; i++)
+		{
+			if (druzyny[i][0] == my_vehicle->iID)
+			{
+				czyWDruzynie = true;
+				adresat = druzyny[i][1];
+				break;
+			}
+
+			else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
+			{
+				czyWDruzynie = true;
+				adresat = druzyny[i][0];
+				break;
+
+			}
+		}
+		if (czyWDruzynie)
+			WyslaniePrzekazu(adresat, typ_przekazu, wartosc );
 
 		my_vehicle->nr_wzietego_przedm = -1;
 		my_vehicle->wartosc_wzieta = 0;
@@ -707,19 +739,20 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 		case VK_RETURN:
 		{
 			Ramka ramka;
+			ramka.typ_ramki = NEGOCJACJA;
 			ramka.iID = my_vehicle->iID;
 
 			for (int i = 0; i < 9; i++)
 			{
 				if (druzyny[i][0] == my_vehicle->iID)
 				{
-					ramka.iID_adresata == druzyny[i][1];
+					ramka.iID_adresata = druzyny[i][1];
 					break;
 				}
 
 				else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
 				{
-					ramka.iID_adresata == druzyny[i][0];
+					ramka.iID_adresata = druzyny[i][0];
 					break;
 
 				}
@@ -901,13 +934,13 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 				{
 					if (druzyny[i][0] == my_vehicle->iID) 
 					{
-						ramka.iID_adresata == druzyny[i][1];
+						ramka.iID_adresata = druzyny[i][1];
 						break;
 					}
 						
 					else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
 					{
-						ramka.iID_adresata == druzyny[i][0];
+						ramka.iID_adresata = druzyny[i][0];
 						break;
 
 					}
@@ -1003,15 +1036,15 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 		default:
 		{
-			if (LOWORD(wParam) >= 0x31 && LOWORD(wParam) <= 0x39) {
+			if (LOWORD(wParam) >= 0x30 && LOWORD(wParam) <= 0x39) {
 
 				int liczba = LOWORD(wParam) - 0x30;
 
 				if (SHIFTwcisniety) 
 				{
-					negocjowany_procent *= 10 + liczba;
+					negocjowany_procent = negocjowany_procent * 10 + liczba;
 				}
-				else 
+				else if (liczba != 0)
 				{
 					if (druzyny[liczba - 1][0] == 0) //nie ma zalozyciela druzyna pusta
 					{

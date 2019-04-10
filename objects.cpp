@@ -109,6 +109,10 @@ MovableObject::MovableObject(Terrain *t)             // konstruktor
 	//umiejetn_sadzenia *= suma_um_los/suma_um;
 	//umiejetn_zb_paliwa *= suma_um_los/suma_um;
 	//umiejetn_zb_monet *= suma_um_los/suma_um;
+	umiejetn_sadzenia = 1.0;
+	umiejetn_zb_paliwa = 1.0;
+	umiejetn_zb_monet = 1.0;
+
 
 	czy_zazn = false;
 }
@@ -669,6 +673,7 @@ void MovableObject::Symulacja(float dt)          // obliczenie nowego stanu na p
 
 			if (prz->typ == PRZ_MONETA)
 			{
+				typ_przedmiotu = PRZ_MONETA;
 				bool mozna_wziac = false;
 				// przy du¿ej wartoœci nie mogê samodzielnie podnieœæ pieni¹¿ka bez bratniej pomocy innego pojazdu
 				// odleg³oœæ bratniego pojazdu od pieni¹dza nie mo¿e byæ mniejsza od naszej odleg³oœci, gdy¿ wtedy
@@ -713,6 +718,7 @@ void MovableObject::Symulacja(float dt)          // obliczenie nowego stanu na p
 			else if (prz->typ == PRZ_BECZKA)
 			{
 				wartosc_wzieta = (float)wartosc*umiejetn_zb_paliwa;
+				typ_przedmiotu = PRZ_BECZKA;
 				ilosc_paliwa += wartosc_wzieta;
 				//sprintf(napis2,"Wziecie_paliwa_w_ilosci_ %d",wartosc);
 			}

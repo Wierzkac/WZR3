@@ -19,6 +19,11 @@ struct StanObiektu
 	int czy_autonom;
 };
 
+enum TYpyPrzedm { PRZ_MONETA, PRZ_BECZKA, PRZ_DRZEWO, PRZ_BUDYNEK, PRZ_PUNKT, PRZ_KRAWEDZ, PRZ_MIEJSCE_STARTOWE, PRZ_MUR, PRZ_BRAMKA };
+//char *PRZ_nazwy[] = { "moneta", "beczka", "drzewo", "punkt", "krawedz", "miejsce startowe", "mur", "bramka" };
+enum PodtypyDrzew { DRZ_TOPOLA, DRZ_SWIERK, DRZ_BAOBAB, DRZ_FANTAZJA };
+//char *DRZ_nazwy[] = { "topola", "swierk", "baobab", "fantazja" };
+enum PodtypyPunktow { PUN_ZWYKLY, PUN_KRAWEDZI, PUN_WODY };
 
 class MovableObject
 {
@@ -84,6 +89,7 @@ public:
 	bool czy_autonom;         // czy obiekt jest autonomiczny
 	long nr_wzietego_przedm;   // numer wzietego przedmiotu
 	float wartosc_wzieta;   // wartosc wzietego przedmiotu
+	TYpyPrzedm typ_przedmiotu; //typ wzietego przedmiotu
 	long nr_odnowionego_przedm;
 
 
@@ -100,11 +106,6 @@ public:
 	void Rysuj();			   // odrysowanie obiektu					
 };
 
-enum TYpyPrzedm { PRZ_MONETA, PRZ_BECZKA, PRZ_DRZEWO, PRZ_BUDYNEK, PRZ_PUNKT, PRZ_KRAWEDZ, PRZ_MIEJSCE_STARTOWE, PRZ_MUR, PRZ_BRAMKA };
-//char *PRZ_nazwy[] = { "moneta", "beczka", "drzewo", "punkt", "krawedz", "miejsce startowe", "mur", "bramka" };
-enum PodtypyDrzew { DRZ_TOPOLA, DRZ_SWIERK, DRZ_BAOBAB, DRZ_FANTAZJA };
-//char *DRZ_nazwy[] = { "topola", "swierk", "baobab", "fantazja" };
-enum PodtypyPunktow {PUN_ZWYKLY, PUN_KRAWEDZI, PUN_WODY};
 
 struct Przedmiot
 {
