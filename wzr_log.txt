@@ -11335,3 +11335,2404 @@ Koniec wczytywania danych o terrainie.
 Nowy obiekt: iID = 839
 Nowy obiekt: iID = 41
 Koniec interakcji
+  przedm.0, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603056: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.1, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603152: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.2, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603248: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.3, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603344: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.4, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603440: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.5, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603536: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.6, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603632: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.7, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603728: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.8, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603824: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.9, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34603920: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.10, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604016: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.11, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604112: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.12, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604208: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.13, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604304: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.14, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604400: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 18, k = -2
+  przedm.15, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604496: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.16, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.17, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.18, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.19, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 21, k = -4
+  przedm.20, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34604976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -5
+  przedm.21, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.22, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.23, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -4
+  przedm.24, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.25, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.26, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.27, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.28, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.29, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.30, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34605936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.31, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.32, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.33, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.34, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.35, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.36, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.37, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.38, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.39, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34606800: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.40, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.41, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34606992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.42, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.43, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.44, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.45, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.46, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.47, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.48, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.49, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.50, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.51, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34607952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.52, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.53, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.54, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.55, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608336: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.56, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608432: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.57, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608528: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.58, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608624: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.59, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608720: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.60, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608816: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.61, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34608912: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.62, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609008: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.63, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609104: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.64, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609200: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.65, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609296: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.66, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609392: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.67, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609488: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.68, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609584: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.69, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609680: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.70, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609776: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.71, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609872: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.72, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34609968: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.73, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34610064: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.74, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34610160: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.75, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34610256: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.76, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34610352: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.77, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34610448: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.78, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34610544: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.79, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34610640: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.80, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34610736: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.81, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34610832: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.82, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34610928: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.83, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611024: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.84, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34611120: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.85, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611216: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.86, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34611312: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.87, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611408: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.88, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34611504: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.89, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611600: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.90, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34611696: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.91, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611792: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.92, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611888: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.93, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34611984: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.94, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34612080: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -4
+  przedm.95, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612176: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.96, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34612272: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.97, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612368: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.98, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612464: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.99, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612560: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.100, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612656: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.101, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612752: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.102, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612848: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.103, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34612944: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.104, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613040: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.105, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613136: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.106, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613232: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.107, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613328: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.108, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613424: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.109, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613520: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.110, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34613616: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.111, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34613712: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.112, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34613808: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.113, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34613904: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.114, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614000: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.115, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614096: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.116, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614192: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.117, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614288: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.118, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614384: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = -1, k = 0
+  przedm.119, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614480: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.120, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614576: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.121, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614672: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.122, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614768: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.123, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614864: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.124, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34614960: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.125, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.126, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.127, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.128, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.129, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.130, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.131, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.132, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.133, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.134, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34615920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.135, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.136, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.137, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.138, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.139, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.140, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.141, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616592: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.142, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616688: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.143, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616784: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.144, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616880: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.145, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34616976: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.146, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617072: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.147, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617168: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.148, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617264: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.149, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617360: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.150, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617456: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.151, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34617552: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.152, typ = 4, wartosc = 0.000000
+wstawiam przedmiot 34617648: krawedz o wartosci 0.000000 i srednicy 0.000000 w sektor w = 1, k = -1
+  przedm.153, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34617744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.154, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34617840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.155, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34617936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.156, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.157, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.158, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.159, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.160, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.161, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.162, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.163, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.164, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.165, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.166, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34618992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.167, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34619088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.168, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34619184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.169, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34619280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.170, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34619376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.171, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34619472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.172, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34619568: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.173, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34619664: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.174, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34619760: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.175, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34619856: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.176, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34619952: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.177, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620048: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.178, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620144: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.179, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620240: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.180, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620336: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.181, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620432: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.182, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620528: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.183, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620624: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.184, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620720: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.185, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620816: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.186, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34620912: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.187, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34621008: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.188, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34621104: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.189, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34621200: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.190, typ = 1, wartosc = 2560.000000
+wstawiam przedmiot 34621296: beczka o wartosci 2560.000000 i srednicy 4.827341 w sektor w = 2, k = -3
+  przedm.191, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621392: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 6, k = -9
+  przedm.192, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621488: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.193, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621584: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.194, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621680: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.195, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621776: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.196, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621872: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.197, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34621968: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.198, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34622064: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.199, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34622160: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.200, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622256: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.201, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622352: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.202, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622448: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.203, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622544: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.204, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622640: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.205, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622736: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.206, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622832: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.207, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34622928: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.208, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623024: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.209, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623120: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.210, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623216: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.211, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623312: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.212, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623408: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.213, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623504: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.214, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623600: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.215, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623696: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.216, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34623792: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.217, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34623888: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.218, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34623984: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.219, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34624080: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.220, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34624176: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.221, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34624272: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.222, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34624368: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.223, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34624464: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.224, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34624560: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.225, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34624656: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.226, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34624752: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.227, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34624848: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.228, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34624944: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.229, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625040: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.230, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625136: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.231, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625232: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -8
+  przedm.232, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625328: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.233, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625424: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.234, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625520: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.235, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625616: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.236, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625712: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.237, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625808: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.238, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34625904: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.239, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626000: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.240, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626096: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.241, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626192: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.242, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626288: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.243, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626384: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -2
+  przedm.244, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626480: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.245, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626576: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.246, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626672: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -3
+  przedm.247, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626768: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -2
+  przedm.248, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626864: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -3
+  przedm.249, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34626960: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -2
+  przedm.250, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34627056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -3
+  przedm.251, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34627152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -2
+  przedm.252, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34627248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -3
+  przedm.253, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627344: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 8, k = -1
+  przedm.254, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627440: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.255, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627536: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.256, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627632: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.257, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627728: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.258, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627824: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.259, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34627920: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.260, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628016: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.261, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628112: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.262, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628208: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.263, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628304: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.264, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628400: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.265, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628496: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.266, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.267, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.268, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.269, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.270, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34628976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.271, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -6
+  przedm.272, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -5
+  przedm.273, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.274, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.275, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -4
+  przedm.276, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -2, k = -1
+  przedm.277, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 0
+  przedm.278, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.279, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.280, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34629936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.281, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+wstawiam przedmiot 34630032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 4
+  przedm.282, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.283, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.284, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.285, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.286, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.287, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.288, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.289, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34630800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 7
+  przedm.290, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34630896: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.291, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34630992: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.292, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631088: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.293, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631184: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.294, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631280: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.295, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631376: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.296, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631472: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.297, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34631568: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+Koniec wczytywania danych o terrainie.
+Nowy obiekt: iID = 703
+Nowy obiekt: iID = 41
+Koniec interakcji
+  przedm.0, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144304: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.1, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144400: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.2, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144496: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.3, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.4, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.5, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.6, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.7, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34144976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.8, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.9, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.10, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.11, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.12, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.13, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.14, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 18, k = -2
+  przedm.15, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.16, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.17, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34145936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.18, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.19, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 21, k = -4
+  przedm.20, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -5
+  przedm.21, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.22, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.23, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -4
+  przedm.24, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.25, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.26, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.27, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.28, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34146992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.29, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.30, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.31, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.32, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.33, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.34, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.35, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.36, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.37, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.38, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34147952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.39, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34148048: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.40, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.41, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.42, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148336: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.43, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148432: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.44, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148528: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.45, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148624: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.46, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148720: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.47, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148816: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.48, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34148912: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.49, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149008: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.50, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149104: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.51, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149200: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.52, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149296: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.53, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149392: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.54, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149488: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.55, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149584: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.56, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149680: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.57, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149776: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.58, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149872: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.59, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34149968: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.60, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150064: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.61, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150160: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.62, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150256: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.63, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150352: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.64, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150448: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.65, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150544: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.66, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150640: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.67, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150736: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.68, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150832: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.69, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34150928: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.70, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151024: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.71, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151120: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.72, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151216: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.73, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151312: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.74, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151408: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.75, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151504: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.76, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151600: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.77, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34151696: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.78, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34151792: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.79, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34151888: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.80, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34151984: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.81, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152080: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.82, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152176: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.83, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152272: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.84, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34152368: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.85, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152464: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.86, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34152560: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.87, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152656: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.88, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34152752: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.89, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34152848: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.90, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34152944: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.91, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153040: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.92, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153136: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.93, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153232: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.94, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34153328: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -4
+  przedm.95, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153424: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.96, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34153520: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.97, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153616: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.98, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153712: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.99, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153808: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.100, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34153904: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.101, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154000: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.102, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154096: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.103, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154192: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.104, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154288: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.105, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154384: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.106, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154480: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.107, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154576: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.108, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154672: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.109, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154768: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.110, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34154864: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.111, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34154960: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.112, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.113, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.114, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.115, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.116, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.117, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.118, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = -1, k = 0
+  przedm.119, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.120, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.121, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34155920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.122, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.123, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.124, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.125, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.126, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.127, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.128, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156592: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.129, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156688: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.130, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156784: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.131, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156880: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.132, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34156976: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.133, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157072: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.134, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157168: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.135, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157264: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.136, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157360: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.137, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157456: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.138, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157552: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.139, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157648: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.140, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157744: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.141, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157840: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.142, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34157936: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.143, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158032: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.144, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158128: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.145, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158224: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.146, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158320: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.147, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158416: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.148, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158512: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.149, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158608: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.150, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158704: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.151, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34158800: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.152, typ = 4, wartosc = 0.000000
+wstawiam przedmiot 34158896: krawedz o wartosci 0.000000 i srednicy 0.000000 w sektor w = 1, k = -1
+  przedm.153, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34158992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.154, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.155, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.156, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.157, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.158, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.159, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.160, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.161, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.162, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.163, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34159952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.164, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.165, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.166, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.167, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160336: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.168, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160432: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.169, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160528: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.170, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160624: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.171, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34160720: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.172, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34160816: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.173, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34160912: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.174, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161008: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.175, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161104: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.176, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161200: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.177, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161296: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.178, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161392: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.179, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161488: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.180, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161584: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.181, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161680: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.182, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161776: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.183, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161872: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.184, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34161968: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.185, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34162064: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.186, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34162160: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.187, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34162256: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.188, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34162352: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.189, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34162448: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.190, typ = 1, wartosc = 2560.000000
+wstawiam przedmiot 34162544: beczka o wartosci 2560.000000 i srednicy 4.827341 w sektor w = 2, k = -3
+  przedm.191, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34162640: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 6, k = -9
+  przedm.192, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34162736: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.193, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34162832: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.194, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34162928: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.195, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34163024: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.196, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34163120: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.197, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34163216: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.198, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34163312: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.199, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34163408: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.200, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163504: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.201, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163600: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.202, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163696: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.203, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163792: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.204, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163888: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.205, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34163984: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.206, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164080: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.207, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164176: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.208, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164272: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.209, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164368: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.210, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164464: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.211, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164560: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.212, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164656: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.213, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164752: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.214, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164848: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.215, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34164944: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.216, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34165040: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.217, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165136: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.218, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165232: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.219, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165328: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.220, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165424: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.221, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165520: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.222, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165616: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.223, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34165712: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.224, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34165808: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.225, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34165904: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.226, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166000: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.227, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166096: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.228, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166192: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.229, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166288: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.230, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166384: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.231, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166480: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -8
+  przedm.232, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166576: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.233, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166672: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.234, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166768: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.235, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166864: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.236, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34166960: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.237, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.238, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.239, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.240, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.241, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.242, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.243, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -2
+  przedm.244, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.245, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.246, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34167920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -3
+  przedm.247, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -2
+  przedm.248, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -3
+  przedm.249, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -2
+  przedm.250, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -3
+  przedm.251, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -2
+  przedm.252, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34168496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -3
+  przedm.253, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34168592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 8, k = -1
+  przedm.254, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34168688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.255, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34168784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.256, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34168880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.257, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34168976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.258, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.259, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.260, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.261, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.262, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.263, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.264, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.265, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.266, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.267, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34169936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.268, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.269, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.270, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.271, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -6
+  przedm.272, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -5
+  przedm.273, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.274, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.275, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -4
+  przedm.276, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -2, k = -1
+  przedm.277, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 0
+  przedm.278, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34170992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.279, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.280, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.281, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+wstawiam przedmiot 34171280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 4
+  przedm.282, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.283, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.284, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.285, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.286, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.287, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.288, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34171952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.289, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34172048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 7
+  przedm.290, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172144: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.291, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172240: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.292, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172336: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.293, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172432: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.294, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172528: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.295, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172624: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.296, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34172720: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.297, typ = 0, wartosc = 100.000000
+  przedm.0, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34668592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.1, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34668688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.2, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34668784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.3, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34668880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.4, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34668976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.5, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.6, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.7, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.8, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.9, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.10, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.11, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.12, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.13, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.14, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34669936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 18, k = -2
+  przedm.15, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.16, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.17, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.18, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.19, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 21, k = -4
+  przedm.20, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -5
+  przedm.21, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.22, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.23, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -4
+  przedm.24, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.25, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34670992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.26, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.27, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.28, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.29, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.30, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.31, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.32, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.33, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.34, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.35, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34671952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.36, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.37, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.38, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.39, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34672336: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.40, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672432: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.41, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672528: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.42, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672624: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.43, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672720: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.44, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672816: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.45, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34672912: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.46, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673008: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.47, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673104: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.48, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673200: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.49, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673296: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.50, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673392: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.51, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673488: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.52, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673584: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.53, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673680: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.54, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673776: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.55, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673872: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.56, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34673968: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.57, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674064: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.58, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674160: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.59, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674256: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.60, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674352: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.61, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674448: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.62, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674544: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.63, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674640: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.64, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674736: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.65, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674832: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.66, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34674928: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.67, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675024: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.68, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675120: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.69, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675216: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.70, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675312: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.71, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675408: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.72, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675504: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.73, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675600: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.74, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675696: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.75, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675792: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.76, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675888: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.77, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34675984: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.78, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676080: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.79, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676176: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.80, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676272: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.81, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676368: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.82, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676464: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.83, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676560: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.84, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34676656: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.85, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676752: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.86, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34676848: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.87, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34676944: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.88, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34677040: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.89, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677136: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.90, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34677232: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.91, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677328: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.92, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677424: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.93, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677520: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.94, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34677616: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -4
+  przedm.95, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677712: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.96, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34677808: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.97, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34677904: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.98, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678000: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.99, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678096: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.100, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678192: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.101, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678288: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.102, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678384: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.103, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678480: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.104, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678576: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.105, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678672: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.106, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678768: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.107, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678864: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.108, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34678960: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.109, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34679056: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.110, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34679152: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.111, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34679248: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.112, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.113, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.114, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.115, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.116, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.117, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.118, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34679920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = -1, k = 0
+  przedm.119, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.120, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.121, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.122, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.123, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.124, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.125, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680592: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.126, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680688: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.127, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680784: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.128, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680880: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.129, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34680976: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.130, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681072: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.131, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681168: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.132, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681264: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.133, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681360: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.134, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681456: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.135, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681552: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.136, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681648: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.137, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681744: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.138, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681840: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.139, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34681936: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.140, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682032: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.141, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682128: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.142, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682224: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.143, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682320: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.144, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682416: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.145, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682512: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.146, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682608: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.147, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682704: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.148, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682800: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.149, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682896: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.150, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34682992: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.151, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34683088: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.152, typ = 4, wartosc = 0.000000
+wstawiam przedmiot 34683184: krawedz o wartosci 0.000000 i srednicy 0.000000 w sektor w = 1, k = -1
+  przedm.153, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.154, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.155, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.156, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.157, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.158, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.159, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.160, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34683952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.161, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.162, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.163, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.164, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684336: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.165, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684432: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.166, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684528: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.167, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684624: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.168, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684720: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.169, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684816: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.170, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34684912: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.171, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34685008: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.172, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685104: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.173, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685200: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.174, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685296: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.175, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685392: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.176, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685488: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.177, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685584: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.178, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685680: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.179, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685776: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.180, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685872: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.181, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34685968: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.182, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686064: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.183, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686160: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.184, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686256: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.185, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686352: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.186, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686448: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.187, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686544: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.188, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34686640: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.189, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34686736: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.190, typ = 1, wartosc = 2560.000000
+wstawiam przedmiot 34686832: beczka o wartosci 2560.000000 i srednicy 4.827341 w sektor w = 2, k = -3
+  przedm.191, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34686928: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 6, k = -9
+  przedm.192, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687024: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.193, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687120: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.194, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687216: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.195, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687312: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.196, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687408: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.197, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687504: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.198, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687600: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.199, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34687696: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.200, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34687792: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.201, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34687888: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.202, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34687984: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.203, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688080: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.204, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688176: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.205, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688272: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.206, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688368: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.207, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688464: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.208, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688560: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.209, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688656: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.210, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688752: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.211, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688848: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.212, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34688944: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.213, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34689040: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.214, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34689136: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.215, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34689232: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.216, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34689328: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.217, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689424: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.218, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689520: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.219, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689616: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.220, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689712: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.221, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689808: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.222, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34689904: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.223, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34690000: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.224, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690096: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.225, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690192: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.226, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690288: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.227, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690384: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.228, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690480: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.229, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690576: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.230, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690672: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.231, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690768: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -8
+  przedm.232, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690864: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.233, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34690960: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.234, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.235, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.236, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.237, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.238, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.239, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.240, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.241, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.242, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.243, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34691920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -2
+  przedm.244, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.245, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.246, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -3
+  przedm.247, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -2
+  przedm.248, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -3
+  przedm.249, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -2
+  przedm.250, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692592: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -3
+  przedm.251, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692688: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -2
+  przedm.252, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34692784: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -3
+  przedm.253, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34692880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 8, k = -1
+  przedm.254, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34692976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.255, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.256, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.257, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.258, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.259, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.260, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.261, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.262, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.263, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.264, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34693936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.265, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.266, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.267, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694224: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.268, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694320: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.269, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694416: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.270, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694512: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.271, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694608: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -6
+  przedm.272, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694704: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -5
+  przedm.273, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694800: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.274, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694896: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.275, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34694992: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -4
+  przedm.276, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695088: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -2, k = -1
+  przedm.277, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695184: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 0
+  przedm.278, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695280: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.279, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695376: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.280, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695472: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.281, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+wstawiam przedmiot 34695568: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 4
+  przedm.282, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695664: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.283, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695760: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.284, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695856: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.285, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34695952: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.286, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34696048: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.287, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34696144: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.288, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34696240: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.289, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34696336: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 7
+  przedm.290, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696432: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.291, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696528: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.292, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696624: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.293, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696720: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.294, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696816: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.295, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34696912: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.296, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34697008: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.297, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34697104: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+Koniec wczytywania danych o terrainie.
+Nowy obiekt: iID = 154
+Nowy obiekt: iID = 41
+Koniec interakcji
+  przedm.0, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34930736: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.1, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34930832: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.2, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34930928: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.3, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931024: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.4, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931120: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.5, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931216: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.6, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931312: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.7, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931408: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.8, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931504: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.9, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931600: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.10, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931696: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.11, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931792: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.12, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931888: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.13, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34931984: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.14, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932080: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 18, k = -2
+  przedm.15, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932176: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.16, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932272: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.17, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932368: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.18, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932464: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.19, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932560: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 21, k = -4
+  przedm.20, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932656: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -5
+  przedm.21, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932752: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.22, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932848: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -4
+  przedm.23, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34932944: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -4
+  przedm.24, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933040: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.25, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933136: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.26, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933232: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.27, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933328: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.28, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933424: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.29, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933520: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.30, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933616: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.31, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933712: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.32, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933808: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -3
+  przedm.33, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34933904: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.34, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934000: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 20, k = -2
+  przedm.35, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934096: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -2
+  przedm.36, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934192: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 19, k = -3
+  przedm.37, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934288: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.38, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934384: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.39, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34934480: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.40, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934576: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.41, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934672: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.42, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934768: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.43, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934864: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.44, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34934960: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.45, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935056: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.46, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935152: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.47, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935248: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.48, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935344: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.49, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935440: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.50, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935536: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.51, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935632: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 1
+  przedm.52, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935728: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.53, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935824: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.54, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34935920: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.55, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936016: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.56, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936112: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.57, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936208: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.58, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936304: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.59, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936400: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.60, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936496: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.61, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936592: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.62, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936688: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.63, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936784: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.64, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936880: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.65, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34936976: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.66, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937072: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.67, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937168: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.68, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937264: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.69, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937360: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.70, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937456: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.71, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937552: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.72, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937648: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.73, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937744: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.74, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937840: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.75, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34937936: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.76, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34938032: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.77, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34938128: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = 1
+  przedm.78, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938224: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.79, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938320: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.80, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938416: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.81, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938512: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.82, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938608: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.83, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938704: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.84, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34938800: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.85, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34938896: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.86, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34938992: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.87, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939088: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.88, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34939184: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.89, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939280: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 1
+  przedm.90, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34939376: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.91, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939472: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.92, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939568: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.93, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939664: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.94, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34939760: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -4
+  przedm.95, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34939856: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.96, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34939952: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -4
+  przedm.97, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940048: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.98, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940144: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.99, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940240: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.100, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940336: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.101, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940432: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.102, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940528: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.103, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940624: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.104, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940720: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.105, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940816: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.106, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34940912: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.107, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34941008: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.108, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34941104: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.109, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34941200: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.110, typ = 2, wartosc = 20.000000
+wstawiam przedmiot 34941296: drzewo o wartosci 20.000000 i srednicy 2.000000 w sektor w = 0, k = 0
+  przedm.111, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34941392: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = 0
+  przedm.112, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941488: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.113, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941584: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.114, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941680: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.115, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941776: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.116, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941872: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.117, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34941968: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.118, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942064: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = -1, k = 0
+  przedm.119, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942160: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.120, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942256: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.121, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942352: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.122, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942448: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.123, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942544: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.124, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942640: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.125, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942736: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.126, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942832: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.127, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34942928: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.128, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943024: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.129, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943120: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.130, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943216: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.131, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943312: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 0
+  przedm.132, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943408: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.133, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943504: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.134, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943600: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.135, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943696: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.136, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943792: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.137, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943888: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.138, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34943984: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.139, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944080: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.140, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944176: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.141, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944272: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.142, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944368: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.143, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944464: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.144, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944560: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.145, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944656: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.146, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944752: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.147, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944848: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.148, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34944944: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.149, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34945040: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.150, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34945136: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.151, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34945232: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -1
+  przedm.152, typ = 4, wartosc = 0.000000
+wstawiam przedmiot 34945328: krawedz o wartosci 0.000000 i srednicy 0.000000 w sektor w = 1, k = -1
+  przedm.153, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945424: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.154, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945520: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.155, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945616: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.156, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945712: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.157, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945808: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.158, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34945904: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.159, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946000: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.160, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946096: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -1
+  przedm.161, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946192: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.162, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946288: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.163, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946384: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.164, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946480: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.165, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946576: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.166, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946672: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.167, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946768: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.168, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946864: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.169, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34946960: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.170, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34947056: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.171, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34947152: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 2, k = -4
+  przedm.172, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.173, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947344: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.174, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947440: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.175, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947536: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.176, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947632: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.177, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947728: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.178, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947824: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.179, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34947920: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.180, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948016: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.181, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948112: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.182, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948208: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 4, k = -6
+  przedm.183, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948304: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.184, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948400: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.185, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948496: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.186, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948592: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.187, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948688: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.188, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34948784: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -6
+  przedm.189, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34948880: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.190, typ = 1, wartosc = 2560.000000
+wstawiam przedmiot 34948976: beczka o wartosci 2560.000000 i srednicy 4.827341 w sektor w = 2, k = -3
+  przedm.191, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949072: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 6, k = -9
+  przedm.192, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949168: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.193, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949264: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.194, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949360: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.195, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949456: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.196, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949552: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.197, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949648: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.198, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949744: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.199, typ = 2, wartosc = 33.426533
+wstawiam przedmiot 34949840: drzewo o wartosci 33.426533 i srednicy 1.485663 w sektor w = 4, k = -6
+  przedm.200, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34949936: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.201, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950032: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.202, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950128: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.203, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950224: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.204, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950320: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.205, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950416: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.206, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950512: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.207, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950608: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -5
+  przedm.208, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950704: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.209, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950800: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.210, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950896: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.211, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34950992: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 4, k = -6
+  przedm.212, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34951088: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.213, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34951184: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = 5, k = -6
+  przedm.214, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34951280: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.215, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34951376: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.216, typ = 2, wartosc = 27.625233
+wstawiam przedmiot 34951472: drzewo o wartosci 27.625233 i srednicy 1.340631 w sektor w = -2, k = 0
+  przedm.217, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34951568: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.218, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34951664: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.219, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34951760: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.220, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34951856: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -2, k = 0
+  przedm.221, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34951952: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.222, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34952048: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = 0, k = 0
+  przedm.223, typ = 2, wartosc = 22.830770
+wstawiam przedmiot 34952144: drzewo o wartosci 22.830770 i srednicy 1.220769 w sektor w = -1, k = 1
+  przedm.224, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952240: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.225, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952336: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.226, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952432: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.227, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952528: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.228, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952624: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.229, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952720: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.230, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952816: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -5
+  przedm.231, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34952912: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -8
+  przedm.232, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953008: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.233, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953104: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.234, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953200: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.235, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953296: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -7
+  przedm.236, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953392: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.237, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953488: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.238, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953584: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -6
+  przedm.239, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953680: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.240, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953776: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -6
+  przedm.241, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953872: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -7
+  przedm.242, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34953968: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.243, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954064: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 6, k = -2
+  przedm.244, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954160: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.245, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954256: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 7, k = -2
+  przedm.246, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954352: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 5, k = -3
+  przedm.247, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954448: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -2
+  przedm.248, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954544: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 1, k = -3
+  przedm.249, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954640: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -2
+  przedm.250, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954736: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 2, k = -3
+  przedm.251, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954832: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -2
+  przedm.252, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34954928: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 3, k = -3
+  przedm.253, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955024: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 8, k = -1
+  przedm.254, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955120: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.255, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955216: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.256, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955312: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.257, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955408: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 7, k = -1
+  przedm.258, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955504: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.259, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955600: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 10, k = -2
+  przedm.260, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955696: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.261, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955792: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.262, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955888: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.263, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34955984: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -2
+  przedm.264, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956080: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.265, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956176: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.266, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956272: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 9, k = -3
+  przedm.267, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956368: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.268, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956464: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -7
+  przedm.269, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956560: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.270, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956656: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 1, k = -6
+  przedm.271, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956752: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -6
+  przedm.272, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956848: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = 0, k = -5
+  przedm.273, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34956944: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.274, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957040: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -5
+  przedm.275, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957136: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -1, k = -4
+  przedm.276, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957232: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -2, k = -1
+  przedm.277, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957328: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 0
+  przedm.278, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957424: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.279, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957520: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.280, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957616: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.281, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957712: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+wstawiam przedmiot 34957712: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 4
+  przedm.282, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957808: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 4
+  przedm.283, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34957904: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.284, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958000: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.285, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958096: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.286, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958192: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 6
+  przedm.287, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958288: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.288, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958384: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -3, k = 7
+  przedm.289, typ = 1, wartosc = 10.000000
+wstawiam przedmiot 34958480: beczka o wartosci 10.000000 i srednicy 0.525306 w sektor w = -4, k = 7
+  przedm.290, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34958576: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.291, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34958672: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.292, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34958768: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.293, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34958864: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.294, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34958960: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.295, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34959056: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.296, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34959152: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+  przedm.297, typ = 0, wartosc = 100.000000
+wstawiam przedmiot 34959248: moneta o wartosci 100.000000 i srednicy 1.000000 w sektor w = 0, k = 1
+Koniec wczytywania danych o terrainie.
+Nowy obiekt: iID = 569
+Nowy obiekt: iID = 41
+Nowy obiekt: iID = 169
+Nowy obiekt: iID = 962
+Koniec interakcji

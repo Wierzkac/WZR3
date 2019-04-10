@@ -22,6 +22,10 @@ using namespace std;
 int druzyny[9][3] = { 0 };
 int iid_chetnego;
 
+short moj_Procent = 100;
+
+
+
 bool if_different_skills = true;          // czy zróżnicowanie umiejętności (dla każdego pojazdu losowane są umiejętności
 // zbierania gotówki i paliwa)
 bool if_autonomous_control = false;       // sterowanie autonomiczne pojazdem
@@ -72,7 +76,7 @@ int opoznienia = 0;
 extern float WyslaniePrzekazu(int ID_adresata, int typ_przekazu, float wartosc_przekazu);
 
 enum typy_ramek {
-	STAN_OBIEKTU, WZIECIE_PRZEDMIOTU, ODNOWIENIE_SIE_PRZEDMIOTU, KOLIZJA, PRZEKAZ, WSPOLPRACA, ZGODA, ODMOWA
+	STAN_OBIEKTU, WZIECIE_PRZEDMIOTU, ODNOWIENIE_SIE_PRZEDMIOTU, KOLIZJA, PRZEKAZ, WSPOLPRACA, ZGODA, ODMOWA, NEGOCJACJA, AKCEPTACJA, NOPE
 };
 
 enum typy_przekazu { PIENIADZE, PALIWO };
@@ -232,6 +236,27 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 		case ODMOWA:
 		{
 			sprintf(par_wid.napis2, "Gracz_o_id:_%d_nie_zgodzil_sie_na_doloczenie_Ciebie_do_druzyny_numer_%d", ramka.iID, ramka.nr_druzyny);
+
+			break;
+		}
+
+		case NEGOCJACJA:
+		{
+			if (ramka.iID_adresata == my_vehicle->iID)
+			{
+				sprintf(par_wid.napis2, "Gracz_o_id:_%d_proponuje_Ci_%d\%", ramka.iID, 100 - ramka.wartosc_przekazu);
+				moj_Procent = 100 - ramka.wartosc_przekazu;
+			}
+			break;
+		}
+
+		case AKCEPTACJA:
+		{
+			if (ramka.iID_adresata == my_vehicle->iID)
+			{
+				sprintf(par_wid.napis2, "Gracz_o_id:_%d_zaakceptowal_Twoj_Procent_%d\%", ramka.iID, moj_Procent);
+			}
+
 
 			break;
 		}
@@ -820,30 +845,62 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 		
 		case 'Y':
 		{
-			Ramka ramka;
-			ramka.typ_ramki = ZGODA;
-			ramka.iID_adresata = iid_chetnego;
-			ramka.iID = my_vehicle->iID;
+			if(SHIFTwcisniety)
+			{
+				Ramka ramka;
+				ramka.typ_ramki = AKCEPTACJA;
 
-			for (int i = 0; i < 9; i++)
-				if (druzyny[i][0] == my_vehicle->iID) {
-					ramka.nr_druzyny = i + 1;
-					for (int j = 1; j <= 2; j++)
-						if (druzyny[i][j] == 0)
-						{
-							druzyny[i][j] = iid_chetnego;
-						}
-				}
-
-			multi_send->send((char*)&ramka, sizeof(Ramka));
-
-			for (int i = 1; i <= 2; i++)
-				if (druzyny[ramka.nr_druzyny - 1][i] == 0)
+				for (int i = 0; i < 9; i++)
 				{
-					druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+					if (druzyny[i][0] == my_vehicle->iID) 
+					{
+						ramka.iID_adresata == druzyny[i][1];
+						break;
+					}
+						
+					else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
+					{
+						ramka.iID_adresata == druzyny[i][0];
+						break;
+
+					}
 				}
 
+				ramka.iID = my_vehicle->iID;
+				multi_send->send((char*)&ramka, sizeof(Ramka));
 
+			
+			}
+			else {
+				Ramka ramka;
+				ramka.typ_ramki = ZGODA;
+				ramka.iID_adresata = iid_chetnego;
+				ramka.iID = my_vehicle->iID;
+
+				for (int i = 0; i < 9; i++)
+					if (druzyny[i][0] == my_vehicle->iID) {
+						ramka.nr_druzyny = i + 1;
+						for (int j = 1; j <= 2; j++)
+							if (druzyny[i][j] == 0)
+							{
+								druzyny[i][j] = iid_chetnego;
+							}
+					}
+
+				multi_send->send((char*)&ramka, sizeof(Ramka));
+
+				for (int i = 1; i <= 2; i++)
+					if (druzyny[ramka.nr_druzyny - 1][i] == 0)
+					{
+						druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+					}
+
+				ramka.typ_ramki = NEGOCJACJA;
+				ramka.wartosc_przekazu = moj_Procent;
+
+				multi_send->send((char*)&ramka, sizeof(Ramka));
+
+			}
 			break;
 		}
 
