@@ -87,7 +87,7 @@ struct Ramka
 	int iID;
 	int typ_ramki;
 	StanObiektu stan;
-	
+
 	long czas_wyslania;
 	int iID_adresata;      // nr ID adresata wiadomości (pozostali uczestnicy powinni wiadomość zignorować)
 
@@ -154,7 +154,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 					network_vehicles[ramka.iID]->ZmienStan(stan);   // aktualizacja stanu obiektu obcego 	
 					terrain.WstawObiektWsektory(network_vehicles[ramka.iID]);
 				}
-				
+
 			}
 			break;
 		}
@@ -193,7 +193,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 					my_vehicle->ilosc_paliwa += ramka.wartosc_przekazu;
 
 				// należałoby jeszcze przelew potwierdzić (w UDP ramki mogą być gubione!)
-				
+
 			}
 			break;
 		}
@@ -223,14 +223,14 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 
 			if (ramka.iID_adresata = my_vehicle->iID)
 			{
-				for(int i = 1; i<=2 ; i++)
-				if (druzyny[ramka.nr_druzyny - 1][i] == 0)
-				{
-					druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
-					break;
-				}
+				for (int i = 1; i <= 2; i++)
+					if (druzyny[ramka.nr_druzyny - 1][i] == 0)
+					{
+						druzyny[ramka.nr_druzyny - 1][i] = my_vehicle->iID;
+						break;
+					}
 			}
-		
+
 			break;
 		}
 
@@ -282,7 +282,7 @@ DWORD WINAPI WatekOdbioru(void *ptr)
 
 
 
-		
+
 		} // switch po typach ramek
 		//Release the Critical section
 		LeaveCriticalSection(&m_cs);               // wyjście ze ścieżki krytycznej
@@ -316,7 +316,7 @@ void PoczatekInterakcji()
 		(void *)multi_reciv,               // argument to thread function
 		0,                           // use default creation flags
 		&dwThreadId);                // returns the thread identifier
-		
+
 }
 
 
@@ -393,7 +393,7 @@ void Cykl_WS()
 			typ_przekazu = PIENIADZE;
 		float wartosc = 100 - moj_Procent;
 		wartosc = wartosc / 100;
-		wartosc = wartosc*(my_vehicle->wartosc_wzieta);
+		wartosc = wartosc * (my_vehicle->wartosc_wzieta);
 
 
 		int adresat;
@@ -416,7 +416,7 @@ void Cykl_WS()
 			}
 		}
 		if (czyWDruzynie)
-			WyslaniePrzekazu(adresat, typ_przekazu, wartosc );
+			WyslaniePrzekazu(adresat, typ_przekazu, wartosc);
 
 		my_vehicle->nr_wzietego_przedm = -1;
 		my_vehicle->wartosc_wzieta = 0;
@@ -630,7 +630,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 					}
 				}
 			}
-		
+
 
 			// trzeba to przerobić na wersję sektorową, gdyż przedmiotów może być dużo!
 			// niestety nie jest to proste. 
@@ -712,7 +712,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			float kat_skretu = (float)(kursor_x - x) / 20;
 			if (kat_skretu > 45) kat_skretu = 45;
 			if (kat_skretu < -45) kat_skretu = -45;
-			my_vehicle->alfa = PI*kat_skretu / 180;
+			my_vehicle->alfa = PI * kat_skretu / 180;
 		}
 		break;
 	}
@@ -720,7 +720,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 	{
 		int zDelta = GET_WHEEL_DELTA_WPARAM(wParam);  // dodatni do przodu, ujemny do tyłu
 		//fprintf(f,"zDelta = %d\n",zDelta);          // zwykle +-120, jak się bardzo szybko zakręci to czasmi wyjdzie +-240
-		if (zDelta > 0){
+		if (zDelta > 0) {
 			if (par_wid.oddalenie > 0.5) par_wid.oddalenie /= 1.2;
 			else par_wid.oddalenie = 0;
 		}
@@ -763,7 +763,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			negocjowany_procent = 0;
 
 			multi_send->send((char*)&ramka, sizeof(Ramka));
-			
+
 		}
 
 		case VK_SHIFT:
@@ -890,7 +890,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			ZmianaRozmiaruOkna(rc.right - rc.left, rc.bottom - rc.top);
 			break;
 		}
-		
+
 
 		case 'F':  // przekazanie 10 kg paliwa pojazdom zaznaczonym
 		{
@@ -918,26 +918,26 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 			}
 			break;
 		}
-		
+
 		case 'L':     // rozpoczęcie zaznaczania metodą lasso
 			Lwcisniety = true;
 			break;
-		
+
 		case 'Y':
 		{
-			if(SHIFTwcisniety)
+			if (SHIFTwcisniety)
 			{
 				Ramka ramka;
 				ramka.typ_ramki = AKCEPTACJA;
 
 				for (int i = 0; i < 9; i++)
 				{
-					if (druzyny[i][0] == my_vehicle->iID) 
+					if (druzyny[i][0] == my_vehicle->iID)
 					{
 						ramka.iID_adresata = druzyny[i][1];
 						break;
 					}
-						
+
 					else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
 					{
 						ramka.iID_adresata = druzyny[i][0];
@@ -949,7 +949,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 				ramka.iID = my_vehicle->iID;
 				multi_send->send((char*)&ramka, sizeof(Ramka));
 
-			
+
 			}
 			else {
 				Ramka ramka;
@@ -964,6 +964,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 							if (druzyny[i][j] == 0)
 							{
 								druzyny[i][j] = iid_chetnego;
+								break;
 							}
 					}
 
@@ -993,17 +994,17 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 				for (int i = 0; i < 9; i++)
 				{
-					if (druzyny[i][0] == my_vehicle->iID)
+					if (druzyny[i][0] == my_vehicle->iID) //jestem w mojej druzynie
 					{
-						ramka.iID_adresata == druzyny[i][1];
+						ramka.iID_adresata = druzyny[i][1];
 						druzyny[i][1] = 0;
 
 						break;
 					}
 
-					else if (druzyny[i][1] == my_vehicle->iID) //jestem w mojej druzynie
+					else if (druzyny[i][1] == my_vehicle->iID)
 					{
-						ramka.iID_adresata == druzyny[i][0];
+						ramka.iID_adresata = druzyny[i][0];
 						druzyny[i][1] = 0;
 						break;
 
@@ -1040,7 +1041,7 @@ void KlawiszologiaSterowania(UINT kod_meldunku, WPARAM wParam, LPARAM lParam)
 
 				int liczba = LOWORD(wParam) - 0x30;
 
-				if (SHIFTwcisniety) 
+				if (SHIFTwcisniety)
 				{
 					negocjowany_procent = negocjowany_procent * 10 + liczba;
 				}
@@ -1199,7 +1200,7 @@ LRESULT CALLBACK WndProc(HWND okno, UINT kod_meldunku, WPARAM wParam, LPARAM lPa
 			}
 			break;
 		}
-		
+
 		case VK_ESCAPE:   // wyjście z programu
 		{
 			SendMessage(okno, WM_DESTROY, 0, 0);
